@@ -1,3 +1,4 @@
+claim_label,votes_1,votes_2,votes_3,votes_4,votes_5
 SUPPORTS,"[""SUPPORTS"", ""NOT_ENOUGH_INFO"", null, null, null]","[""SUPPORTS"", ""SUPPORTS"", null, null, null]","[""SUPPORTS"", ""NOT_ENOUGH_INFO"", null, null, null]","[""SUPPORTS"", ""SUPPORTS"", null, null, null]","[""SUPPORTS"", ""NOT_ENOUGH_INFO"", null, null, null]"
 SUPPORTS,"[""SUPPORTS"", ""SUPPORTS"", null, null, null]","[""SUPPORTS"", ""SUPPORTS"", null, null, null]","[""SUPPORTS"", ""SUPPORTS"", null, null, null]","[""REFUTES"", ""NOT_ENOUGH_INFO"", null, null, null]","[""REFUTES"", ""NOT_ENOUGH_INFO"", null, null, null]"
 REFUTES,"[""NOT_ENOUGH_INFO"", ""REFUTES"", null, null, null]","[""NOT_ENOUGH_INFO"", ""REFUTES"", null, null, null]","[""NOT_ENOUGH_INFO"", ""SUPPORTS"", null, null, null]","[""REFUTES"", ""REFUTES"", null, null, null]","[""REFUTES"", ""REFUTES"", null, null, null]"
