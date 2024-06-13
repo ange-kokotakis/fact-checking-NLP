@@ -1,0 +1,8 @@
+
+data/wiki_indexes.csv
+model/verdict/model.safetensors
+model/voter_1/model.safetensors
+model/voter_2/model.safetensors
+model/voter_3/model.safetensors
+model/voter_4/model.safetensors
+model/voter_5/model.safetensors
